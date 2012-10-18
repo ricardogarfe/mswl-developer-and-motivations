@@ -1,0 +1,31 @@
+==================================
+MSWL - Developers and Motivations
+==================================
+
+Introduction
+=============
+
+I going to place the exercises from ``Developers and Motivations`` Subject in Master de Software Libre that I'm coursing in ``Universidad Rey Juan Carlos``.
+
+LaTeX
+------
+
+I use LaTeX to develop documents in this repository instead of *restructuredText* that is used in README files.
+
+Summary
+========
+
+Brief summary of the exercises.
+
+Developers Characterisation
+-----------------------------
+
+This exercise it's about how the world see FLOSS developers and how is reflected in the study from FLOSSProject::
+
+    http://flossproject.org/report/Final4.htm
+
+The Bazaar and the Cathedral
+-----------------------------
+
+**TBC**.
+
