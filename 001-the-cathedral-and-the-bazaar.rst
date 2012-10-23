@@ -7,7 +7,7 @@ Ejercicio 1
 
 1 a la 10, 2 para comentar el porqué son importantes o diferenciales en un poryecto de software libre, es decir que funcionen.
 
-Ejercicio 1
+Ejercicio 2
 ============
 
 2 puntos, (statement) de Raymon... que son más cuestionables.
