@@ -9,11 +9,5 @@
 # Avoid Pdf files
 *.pdf
 
-# Output LaTeX presentation files
-*.nav
-*.out
-*.snm
-*.toc
-
 # Filesystem
 *~
